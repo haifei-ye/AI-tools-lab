@@ -1,0 +1,3 @@
+[submodule "rea-study/rea"]
+	path = rea-study/rea
+	url = https://github.com/morluto/rea.git
