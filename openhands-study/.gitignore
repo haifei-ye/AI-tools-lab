@@ -1,0 +1,5 @@
+.npm-cache/
+rea-analysis/
+**/node_modules/
+*.tmp
+*.temp

@@ -1,3 +1,9 @@
 [submodule "rea-study/rea"]
 	path = rea-study/rea
 	url = https://github.com/morluto/rea.git
+[submodule "openhands-study/openhands"]
+	path = openhands-study/openhands
+	url = https://github.com/OpenHands/OpenHands.git
+[submodule "openhands-study/software-agent-sdk"]
+	path = openhands-study/software-agent-sdk
+	url = https://github.com/OpenHands/software-agent-sdk.git
