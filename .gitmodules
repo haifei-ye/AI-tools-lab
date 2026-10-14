@@ -7,3 +7,6 @@
 [submodule "openhands-study/software-agent-sdk"]
 	path = openhands-study/software-agent-sdk
 	url = https://github.com/OpenHands/software-agent-sdk.git
+[submodule "agent-reach-study/agent-reach"]
+	path = agent-reach-study/agent-reach
+	url = https://github.com/Panniantong/Agent-Reach.git

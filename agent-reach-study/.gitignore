@@ -1,0 +1,51 @@
+# Dependency environments
+node_modules/
+.venv/
+venv/
+
+# Python bytecode and tool caches
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# REA and experiment output
+raw-output/
+raw_output/
+rea-output/
+rea_raw_output/
+*.raw.json
+*.raw.txt
+*.trace.json
+*.log
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Local Agent Reach / adapter state
+.agent-reach/
+.opencli/
+.mcporter/
+xhs-cookies.json
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*token*.json
+*token*.yaml
+*token*.yml
+*cookie*.json
+*cookie*.txt
+credentials.*
+secrets.*
+config.local.*
+local-config.*
+*.pem
+*.key
+*.p12
+*.pfx
