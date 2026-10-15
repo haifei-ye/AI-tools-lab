@@ -10,3 +10,12 @@
 [submodule "agent-reach-study/agent-reach"]
 	path = agent-reach-study/agent-reach
 	url = https://github.com/Panniantong/Agent-Reach.git
+[submodule "mcp-study/servers/modelcontextprotocol"]
+	path = mcp-study/servers/modelcontextprotocol
+	url = https://github.com/modelcontextprotocol/modelcontextprotocol.git
+[submodule "mcp-study/servers/official-servers"]
+	path = mcp-study/servers/official-servers
+	url = https://github.com/modelcontextprotocol/servers.git
+[submodule "mcp-study/clients/typescript-sdk"]
+	path = mcp-study/clients/typescript-sdk
+	url = https://github.com/modelcontextprotocol/typescript-sdk.git

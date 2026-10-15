@@ -1,0 +1,38 @@
+# Dependency environments
+node_modules/
+.venv/
+venv/
+
+# Python and JavaScript caches
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.npm/
+
+# Build and coverage output
+dist/
+build/
+coverage/
+htmlcov/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*token*.json
+*cookie*.json
+credentials.*
+secrets.*
+*.pem
+*.key
+
+# Experiment output
+raw-output/
+raw_output/
+tmp/
+temp/
+*.tmp
+*.log
